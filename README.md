@@ -1,6 +1,6 @@
 # SNMMI_2023_Session
 
-The attached presentation (.pdf/.ppsx) covering tutorials for simulation and reconstruction in scintigraphy and SPECT was presented at the SNMMI 2023 by Auer Benjamin PhD from the Division of Nuclear Medicine, Department of Radiology, Brigham and Women’s Hospital and Harvard Medical School, MA, USA and Pells Sophia PhD from the Department of Radiology, University of Massachusetts Chan Medical School, MA, USA.
+The attached presentation (.pdf) covering tutorials for simulation and reconstruction in scintigraphy and SPECT was presented at the SNMMI 2023 by Auer Benjamin PhD from the Division of Nuclear Medicine, Department of Radiology, Brigham and Women’s Hospital and Harvard Medical School, MA, USA and Pells Sophia PhD from the Department of Radiology, University of Massachusetts Chan Medical School, MA, USA.
 
 **Contact:** Auer, Benjamin Ph.D <bauer@bwh.harvard.edu>
 
