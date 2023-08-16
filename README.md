@@ -8,6 +8,7 @@ If you plan to re-use some of the contents developed in these tutorials, please 
 
 > - Auer, B., Könik, A., Fromme, T.J., De Beenhouwer, J., Kalluri, K.S., Lindsay, C., Furenlid, L. R., Kuo, P.H. & King, M. A. (2023). [Mesh Modelling of system geometry and anatomy phantoms for realistic GATE simulations and reconstruction](https://iopscience.iop.org/article/10.1088/1361-6560/acbde2), Accepted for publication in Physics in Medicine and Biology.
 
+<img width="792" alt="Screen Shot 2023-08-16 at 5 28 56 PM" src="https://github.com/BenAuer2021/SNMMI_2023_Session/assets/84809217/f84687ba-8174-4520-88c8-e97ff6aa1e55">
 
 The content of the tutorials is as follows,
 > - [Open-Source Digital Phantoms for Nuclear Medicine Imaging Simulation](https://github.com/BenAuer2021/Phantoms-For-Nuclear-Medicine-Imaging-Simulation)
